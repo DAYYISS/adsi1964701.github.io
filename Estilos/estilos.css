@@ -1,0 +1,157 @@
+/*===============================Index===================================*/
+/*Menu de la pagina*/
+nav{
+    background-color: #DAF5F4; 
+}
+
+#menu{
+    float: right;
+    overflow: hidden;
+    padding: 100px 0px 0px 0px;
+
+}
+
+#OrdenMenu{
+    border-radius: 100px;
+    padding: 0px 30px 0px 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #04DDEE;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #F9037E;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: color .60s ease-in-out,
+    background-color .60s ease-in-out;
+  }
+/*Fin Menu de la pagina*/
+
+/*Inicio de Menu lateral de la pagina*/
+#menu_lateral{
+    float: right;
+    margin-top: 40px;
+    border: 2px solid #F9037E;
+    border-radius: 50px 15px;
+    padding: 10px;
+    width: 300px;
+    height: 500px;
+  }
+/*Fin de Menu lateral de la pagina*/
+
+/*Inicio Codigo CSS para imagenes*/
+#logoMylife{
+    padding: 10px;
+    float: left;
+    border-radius: 50px;
+}
+
+.foto{
+    display:block;
+    margin:auto;
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+    border-radius: 9rem;
+    transform: rotate(25deg);
+}
+
+.Mascota{
+    display:block;
+    margin:auto;
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+    border-radius: 50px;
+    transform: rotate(20deg);
+  }
+
+  .metas{
+    display:block;
+    margin:auto;
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+    border-radius: 50%;
+  }
+
+  .gustos{
+    display:block;
+    margin:auto;
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+    border-radius: 50%;
+  }
+/*Fin Codigo CSS para imagenes*/
+
+/*Estilos de titulos y parrafos*/
+  p{
+      font-family: cursive;
+      padding: 30px 40px 0px 30px;
+      text-align: justify;
+  }
+
+  .ColorearTitulos{
+    color: #F9037E;
+  }
+
+  label{
+    color: #F9037E;
+  }
+/*Fin Estilos de titulos y parrafos*/
+
+/*Pie de pagina*/
+  #pieDePagina{
+    background: #DAF5F4; 
+  }
+
+  #politica{
+    padding: 30px;
+  }
+
+i{
+    padding: 10px 10px 0px 0px;
+    color: #F9037E;
+  }
+/*Fin pie de pagina*/
+/*==================================================================*/
+
+/*================================Mi familia==================================*/
+/*Inicio de Menu lateral de la pagina*/
+#menu_lateral2{
+    float: left;
+    margin-top: 40px;
+    border: 2px solid #F9037E;
+    border-radius: 50px 15px;
+    padding: 10px;
+    width: 300px;
+    height: 500px;
+}
+/*Fin de Menu lateral de la pagina*/
+
+/*Videos de la paginas*/
+#video{
+  border-radius: 100px;
+}
+/*Fin videos de la paginas*/
+/*==================================================================*/
+
